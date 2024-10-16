@@ -1,0 +1,1 @@
+$$ \min_{a,v} \left[ \min_{c_1} \left( \sum_{x \in R(a,v)} (y_i - c_1)^2 \right) + \min_{c_2} \left( \sum_{x \in R(a,v)} (y_i - c_2)^2 \right) \right] $$
